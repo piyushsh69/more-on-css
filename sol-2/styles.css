@@ -1,0 +1,12 @@
+#container{
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    max-width: 250px;
+    background-color: rgba(230, 230, 50, 0.765);
+}
+
+#container img{
+    border-radius: 10px;
+    width: 100%;
+}

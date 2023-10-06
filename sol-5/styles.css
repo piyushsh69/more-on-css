@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald:wght@500&display=swap');
+
+body {
+    background-color: rgb(23, 20, 20);
+}
+
+#container {
+    color: white;
+    margin: auto;
+    width: 90%;
+    max-width: 800px;
+}
+
+#container h1 {
+    text-align: center;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+}
+
+#container img {
+    width: 100%;
+}
+
+#container p {  
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
